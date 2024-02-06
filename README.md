@@ -1,9 +1,6 @@
-<h1 align="center">Bonjour 👋, je m'appelle Laanaya Youssef</h1>
-<h3 align="center">Un développeur fullstack passionné</h3>
+<h1 align="center">Hi ! 👋, I'm Laanaya Youssef</h1>
+<h3 align="center">passionate fullstack developer interesed to modern & scalable Web Apps with Hight performance</h3>
 
-<h3 align="left">Connectez-vous avec moi :</ h3>
-<p align="left">
-</p>
 
 <h3 align="left">Langues et outils :</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons /devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming .com/" target="_blank" rel="noreferrer">
